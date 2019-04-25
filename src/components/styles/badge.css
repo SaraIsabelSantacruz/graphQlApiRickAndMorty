@@ -1,0 +1,34 @@
+.image-logo{
+    width: 300px;
+    height: 300px;
+}
+
+.targetContainer{
+    border: 8px solid #000000ad;
+    display: block;
+    margin: 0 auto;
+    margin: 10px;
+}
+
+.userInfoContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 1px solid #8080807a;
+    margin: 10px;
+    text-align: center;
+}
+
+.image-user{
+    width: 65px;
+    height: 65px;
+    border: 1px solid gray;
+    border-radius: 50%;
+}
+
+.footer{
+    background: #ffc1076e;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
